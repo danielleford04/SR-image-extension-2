@@ -1,5 +1,9 @@
 # Chrome Extension With Webpack Boilerplate
 
+This code is from the Alt Tag Generator Tutorial (https://hackernoon.com/overwrite-bad-image-alt-tags-via-my-alt-tag-generation-app-built-with-openai-api).
+
+This is where the code should be at the end of Step 2. At this point, there will be a button in the Chrome extension popup, and 'hello console' will be logged in the Chrome console when the button is clicked.
+
 ## Install and run the extension:
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start the development server.
